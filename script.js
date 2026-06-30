@@ -3,7 +3,7 @@ const musicas = [
         titulo: "MACUNAÍMA E O FIM DO MUNDO",
         artista: "Ana, Arthur, Eduarda, Gustavo, Isabela e Luiza",
         arquivo: "musica1.mp3",
-        capa: "capas/capa1.jpg"
+        capa: "capa1.jpg"
     }
   ];
 
